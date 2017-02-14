@@ -44,6 +44,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Caching\IRequestCache.cs" />
+    <Compile Include="Caching\SimpleRequestCache.cs" />
     <Compile Include="Models\LatLong.cs" />
     <Compile Include="Models\Postcode.cs" />
     <Compile Include="Models\PostcodeDetail.cs" />
