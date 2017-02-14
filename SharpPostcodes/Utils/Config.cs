@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SharpPostcodes
+namespace SharpPostcodes.Utils
 {
-    public class Class1
+    public class Config
     {
+        public static string Host = @"http://uk-postcodes.com/";
     }
 }
