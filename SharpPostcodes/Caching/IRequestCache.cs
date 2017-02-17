@@ -1,4 +1,6 @@
-﻿namespace SharpPostcodes.Caching
+﻿using System;
+
+namespace SharpPostcodes.Caching
 {
     public interface IRequestCache
     {

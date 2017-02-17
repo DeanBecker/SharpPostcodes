@@ -5,7 +5,7 @@ using SharpPostcodes.Caching;
 namespace SharpPostcodes.Test.Caching
 {
     [TestClass]
-    public class RequestCachingTests
+    public class SimpleRequestCacheTests
     {
         [TestMethod]
         public void SimpleRequestCacheInstanceInit()

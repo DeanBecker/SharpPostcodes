@@ -51,6 +51,7 @@
     <Compile Include="Models\PostcodeDetail.cs" />
     <Compile Include="Postcodes.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Caching\CachedHttpClient.cs" />
     <Compile Include="Utils\Config.cs" />
   </ItemGroup>
   <ItemGroup>
